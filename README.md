@@ -18,7 +18,7 @@
 ```python
 parth = {
     "role"      : "Computer Science Graduate & Developer",
-    "location"  : "Panipat, Haryana, India 🇮🇳",
+    "location"  : "Mohali, Punjab, India 🇮🇳",
     "focus"     : ["Web Development", "AI/ML", "Data Analytics"],
     "goal"      : "Project Management | Business Analysis | Data Analytics",
     "streak"    : "200+ days GitHub contribution streak 🔥",
