@@ -91,7 +91,7 @@ parth = {
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Parth-Tech-Creator&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Parth-Tech-Creator&theme=tokyonight&hide_border=true)
+
 
 </div>
 
